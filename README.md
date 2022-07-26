@@ -1,3 +1,3 @@
 # cv
-my personal website
+my cv webpage
 https://the-rudra.github.io/cv/
